@@ -81,7 +81,7 @@ There are two paths to follow the workshop examples:
 
 ## Files
   ### Workshop Files
-  The HTML and PDF files in the repository both contain the information needed for the workshop. You can pick which one you prefer. You can copy the code into an R script and run it yourself, or use the pre-made R script ("G21_5_Workshop_LakeEnsemblR.R"), which contains all the lines of code that are run during the workshop and some short comments. 
+  The HTML and PDF files in the repository both contain the information needed for the workshop. You can pick which one you prefer. You can copy the code into an R script and run it yourself, or use the pre-made R script ("03_CIBR_2021_Workshop_LakeEnsemblR.R"), which contains all the lines of code that are run during the workshop and some short comments. 
   
   ### LakeEnsemblR Examples
   There is a selection of lakes of different areas, depths and climatic zones that have been collated to show you different applications of `LakeEnsemblR`. They can be downloaded from the [LER_examples](https://github.com/aemon-j/LER_examples) repository on the "aemon-j" GitHub account.
