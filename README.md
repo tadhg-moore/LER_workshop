@@ -70,8 +70,8 @@ There are two paths to follow the workshop examples:
   
   You can install the Docker software from [here](https://docs.docker.com/get-docker/). Once installed, you'll need to open a terminal and type (the pulling will take some time depending on your internet connection, it's about 4 Gb big)
   ```
-  docker pull hydrobert/lakeensemblr-rocker
-  docker run --rm -d  -p 8000:8000 -e ROOT=TRUE -e PASSWORD=password hydrobert/lakeensemblr-rocker:latest
+  docker pull hydrobert/lakeensemblr_workshop
+	docker run --rm -d  -p 8000:8000 -e ROOT=TRUE -e PASSWORD=password hydrobert/lakeensemblr_workshop:latest
   ```
   Then, open any web browser and type "localhost:8000" and input user: rstudio, and password: password. Rstudio will open up with the script and data available in the file window. 
   
